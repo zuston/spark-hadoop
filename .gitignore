@@ -1,0 +1,8 @@
+.idea/
+target/
+out/
+将删除 .gitignore
+将删除 data.txt
+将删除 pom.xml
+将删除 sparkLearn.iml
+将删除 src/
